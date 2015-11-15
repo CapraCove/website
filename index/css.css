@@ -38,7 +38,7 @@ h3 {
 }
 
 .jumbotron {
-  background-image:url('images/hawaii.jpg');
+  background-image:url('../images/hawaii.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-position: center;
