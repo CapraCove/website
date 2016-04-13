@@ -1,3 +1,5 @@
-# website
+# Wordpress Theme
 
-This repository is for everything that will be displayed on the website at all. This means all pages that go onto CapraCove, any code, can be located here. Thoughts, concepts, and examples can go into "profiles". 
+This repository is for the CapraCove Wordpress Theme.
+Designed from the basic Wordpress template from scratch with custom post types and PHP integration.
+
